@@ -1,0 +1,4 @@
+#ifndef INC_03_GUESS_NUMBER_CLEAR_CIN_H
+#define INC_03_GUESS_NUMBER_CLEAR_CIN_H
+    void clear_cin();
+#endif //INC_03_GUESS_NUMBER_CLEAR_CIN_H

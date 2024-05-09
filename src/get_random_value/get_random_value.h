@@ -1,0 +1,4 @@
+#ifndef INC_03_GUESS_NUMBER_GET_RANDOM_VALUE_H
+#define INC_03_GUESS_NUMBER_GET_RANDOM_VALUE_H
+    int get_random_value(int max_value);
+#endif //INC_03_GUESS_NUMBER_GET_RANDOM_VALUE_H
